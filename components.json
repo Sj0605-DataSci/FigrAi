@@ -1,0 +1,2521 @@
+[
+    {
+        "name": "Categories",
+        "components": [
+            {
+                "name": "Type=Rounded, Size=Medium, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/153b7bf1-66f0-4536-bf15-20f2186cb82d",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Medium",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Small, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/06a04fa7-98e5-45f1-a3b9-e826680bd2bc",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Small",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Large, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6a1f551a-b509-4f16-a493-51e4f54af8ca",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Large",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Medium, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9490258f-d9ff-47aa-a923-ba345ba64567",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Medium",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Small, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/355f3087-8189-4b0c-ba6d-08a93c706b88",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Small",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Large, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b6cf4a57-408f-4a06-835a-8ee890af600d",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Large",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f71f5024-5858-413b-a50f-a88a407e78fe",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/55a60b0d-7445-42db-ac89-220d3f86b8f3",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Rounded, Size=Large, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d3dcbddb-9149-44c7-a80c-a659f7ddc68e",
+                "properties": {
+                    "Type": "Rounded",
+                    "Size": "Large",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Medium, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8bbe4234-40dd-4b63-93e0-3dc20a41eb5d",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Medium",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Large, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cc02b5da-7e80-49ce-8575-65b1eaa41c9f",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Large",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Small, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/512a12e9-3ffc-431e-a23d-f13b010aab42",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Small",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Medium, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/62448e16-2e76-4a96-9a4b-c75d8500692d",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Medium",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Large, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a146d692-b9c7-4f49-8e83-4517d97bc677",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Large",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Small, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/130836a0-f6aa-4392-b741-e8c2a99eb742",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Small",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3b90c289-456c-49fc-895b-0513a0062ce1",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Large, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d5e9398c-71a2-44ff-a009-686adfb514c6",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Large",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/60745a50-16aa-405d-9edc-81fd0ce108bf",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Medium, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/47223680-8223-478c-b7f6-67a684cdeb85",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Medium",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Large, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b93e70f7-d51a-4f17-a900-26cf649247c0",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Large",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Small, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/86adc15d-daec-4611-a9e3-2dd2f90284fc",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Small",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Medium, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7784164b-c81a-4bf2-82f6-66ac60aa15a3",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Medium",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Large, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f040873d-1742-46b4-ab35-f8c27cbf4947",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Large",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Small, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c1e2b2f5-86e2-406a-813b-68e1cf231a1a",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Small",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e917e0eb-6b0d-42b8-ad48-7a85c02ccf49",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Large, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/89deda1c-eade-4dc5-9b35-1999cfc135e9",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Large",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/026b122a-7b14-44d0-bb91-9661f4b7f7b7",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Badge, Size=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/857722ce-0f48-4364-bcfb-d927525a4d42",
+                "properties": {
+                    "Type": "Badge",
+                    "Size": "Medium",
+                    "Count": "Overflow"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Search",
+        "components": [
+            {
+                "name": "Type=Default, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/abdc5f00-95af-42cd-bfeb-2221f6b9a19c",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c8c03e90-c1b2-4daa-bbc6-224099ac6aab",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/302ebd5b-8654-4042-82eb-4be803fd6e20",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=With button, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9e2a8811-b767-4fb3-93bd-04095d27bd37",
+                "properties": {
+                    "Type": "With button",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=With button, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/52e55046-2739-4ca6-9957-900960670559",
+                "properties": {
+                    "Type": "With button",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=With button, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/87c8a625-5106-4579-9480-b0000ebdd8dd",
+                "properties": {
+                    "Type": "With button",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Graphs and chart",
+        "components": [
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph bottom, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d74ee718-c5b9-4d6b-92d1-ae9aacc7f28e",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph bottom",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph bottom, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3163f203-d7d8-4598-9983-fa87faf9b941",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph bottom",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#2, Layout=Graph bottom, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/206563f9-aa45-4bb9-83a5-78a0dce732b5",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#2",
+                    "Layout": "Graph bottom",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#2, Layout=Graph bottom, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d8d003e9-e7a3-4f69-af09-ecab33719bd5",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#2",
+                    "Layout": "Graph bottom",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#2, Layout=Graph bottom, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/69b4fef2-a55a-4a8c-b3fe-489aee7607c3",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#2",
+                    "Layout": "Graph bottom",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph top, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/63f125c9-01f3-4774-a044-a3b549db0c6a",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph top",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph centered, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1035f2f9-7862-4274-86b1-cb06c6b82184",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph centered",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph bottom, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fff67657-5e67-45a9-b464-cbae3f834ddd",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph bottom",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph top, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7caa42db-b37c-4164-9095-bb67af6756a8",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph top",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph top, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8af1dff8-2433-47af-b2a9-ab6270118fee",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph top",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph centered, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/877ad345-4906-4974-a880-65c085186208",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph centered",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph centered, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/986326f4-24c1-47cf-b7fe-e1b88054b0ca",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph centered",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph centered, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/04814176-4ca0-455c-90b8-5ab8fa4efe41",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph centered",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph top, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7bcc15ff-00ad-49b1-a53a-e1a294067770",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph top",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#1, Layout=Graph bottom, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/493b3496-862d-4bb0-9aff-674a16766d0f",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#1",
+                    "Layout": "Graph bottom",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph top, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a1c0da79-27b4-4955-825b-458e6bc7cda3",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph top",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph bottom, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f1e3dea2-149d-4690-9bb9-409851d6dd9f",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph bottom",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph centered, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f56f051b-f2ee-439c-893d-f55c4e576374",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph centered",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph centered, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ab26edba-15f6-46ad-a166-481df1325b11",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph centered",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph bottom, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8e774f26-a6d0-4f21-9378-74fc956a775e",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph bottom",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph top, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9ebf84db-de8b-484c-b881-57e8a365e28a",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph top",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph bottom, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3f5c2511-47eb-491a-9239-7c9a7b5d80fc",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph bottom",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph centered, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4ea40e8e-3950-4bf7-8432-dc506f439742",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph centered",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Line graph, Style=#2, Layout=Graph top, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3ecc336c-a0a3-4e39-8be4-6eaf2d679894",
+                "properties": {
+                    "Variant": "Line graph",
+                    "Style": "#2",
+                    "Layout": "Graph top",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph bottom, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/784f88cb-378a-45e7-a2f2-19b1f36ad706",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph bottom",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph bottom, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3521955e-b27e-4a21-9926-f709fcd113aa",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph bottom",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph top, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ccde8e66-b953-4949-a266-86dc8ed3de10",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph top",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph centered, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/57f90ed5-c2ca-4d39-9348-166cafc3d4e3",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph centered",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph top, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/11c5e3b7-e2e2-4aea-95f8-a8df467274bd",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph top",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Variant=Bar graph, Style=#1, Layout=Graph centered, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3a72c143-7df1-484d-ae15-a609dab3c800",
+                "properties": {
+                    "Variant": "Bar graph",
+                    "Style": "#1",
+                    "Layout": "Graph centered",
+                    "Count": "2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Carousel",
+        "components": [
+            {
+                "name": "Type=Landscape, Size=medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/74199d9e-1c6a-40ec-b7ec-5cd51f02212b",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Landscape, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c504ec22-aa10-4435-9065-0da3a4f03795",
+                "properties": {
+                    "Type": "Landscape",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Square, Size=Large, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/87f215ce-0b11-4030-81eb-ad0a757df852",
+                "properties": {
+                    "Type": "Square",
+                    "Size": "Large",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b632bf8b-c02b-402a-ab0f-9a921237a09f",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Square, Size=medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e0b66d39-be69-48a6-b12e-6765839a59f8",
+                "properties": {
+                    "Type": "Square",
+                    "Size": "medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Square, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1eac193c-9296-4ad5-a8d9-10288b62b897",
+                "properties": {
+                    "Type": "Square",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Tall, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7ec7ea34-98c3-421c-b71e-869aadf8649f",
+                "properties": {
+                    "Type": "Tall",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Buttons",
+        "components": [
+            {
+                "name": "Type=Button, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/416b77fd-f5c0-4096-bc4a-e10e7cbeb169",
+                "properties": {
+                    "Type": "Button",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Stepper, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/51114764-8f79-4ebf-9263-08f520b87fc5",
+                "properties": {
+                    "Type": "Stepper",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Social button, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1c6404c0-6eb2-449c-af89-db7021570c0a",
+                "properties": {
+                    "Type": "Social button",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Social button, Size=Large, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9e3fc9f9-97aa-4d25-b4c8-62795f25cdb2",
+                "properties": {
+                    "Type": "Social button",
+                    "Size": "Large",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Social button, Size=Large, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/67bc5e84-6258-4bfe-b596-148258821766",
+                "properties": {
+                    "Type": "Social button",
+                    "Size": "Large",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Floating Button, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/74026a42-e9e3-4c8a-9f77-83bcb658dbf3",
+                "properties": {
+                    "Type": "Floating Button",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Floating Button, Size=Large, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/85157f21-ed62-4071-a733-bb9ea14e3245",
+                "properties": {
+                    "Type": "Floating Button",
+                    "Size": "Large",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/43fd7bc1-89f2-4470-a6c4-ea1ef7069b18",
+                "properties": {
+                    "Type": "Button",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Stepper, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a69bcc26-5128-4022-b4a1-334a2d255abf",
+                "properties": {
+                    "Type": "Stepper",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Floating Button, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6f988ced-36f8-472b-8eb3-f12367b614ae",
+                "properties": {
+                    "Type": "Floating Button",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Floating Button, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/198cc1e7-7cec-4db7-a055-c80e9a40ced6",
+                "properties": {
+                    "Type": "Floating Button",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/38962bcc-1f32-402d-8d22-2aabe735fedd",
+                "properties": {
+                    "Type": "Button",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Stepper, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/70246f94-9fae-4ee5-add4-838f5f826e31",
+                "properties": {
+                    "Type": "Stepper",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Floating Button, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/76a414a0-e754-41ee-ba5c-1973b30e645e",
+                "properties": {
+                    "Type": "Floating Button",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Floating Button, Size=Small, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4f2d9427-a2ec-44df-b447-b50b9c18993e",
+                "properties": {
+                    "Type": "Floating Button",
+                    "Size": "Small",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button, Size=Large, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4966e141-0359-4df6-9db9-4a309b9089ed",
+                "properties": {
+                    "Type": "Button",
+                    "Size": "Large",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7208b551-b966-4de3-94ab-ea5cfc8b193e",
+                "properties": {
+                    "Type": "Button",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button, Size=Small, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/506e1d29-9c38-454c-abf1-ac190d5f9737",
+                "properties": {
+                    "Type": "Button",
+                    "Size": "Small",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button with text, Size=Large, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/920374c7-fac1-4abd-9f9d-95d233bf0c52",
+                "properties": {
+                    "Type": "Button with text",
+                    "Size": "Large",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button with text, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2293d76d-1e4e-4ade-ac52-73d44966a700",
+                "properties": {
+                    "Type": "Button with text",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button with text, Size=Small, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0ffdfe03-c822-4a33-8528-3b81e4c93d6d",
+                "properties": {
+                    "Type": "Button with text",
+                    "Size": "Small",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Button with text, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fc33de5a-837d-4a31-8920-3b3985601c1d",
+                "properties": {
+                    "Type": "Button with text",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Button with text, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ec389d10-bf7e-4c0f-bda7-2a9d1413328c",
+                "properties": {
+                    "Type": "Button with text",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Button with text, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a39147bb-5fd5-4040-85f9-cec23bde2999",
+                "properties": {
+                    "Type": "Button with text",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Input field",
+        "components": [
+            {
+                "name": "Type=Text input, Count=1, Size=Large",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/33075d3d-dd1a-45ab-82b3-4894205edce3",
+                "properties": {
+                    "Type": "Text input",
+                    "Count": "1",
+                    "Size": "Large"
+                }
+            },
+            {
+                "name": "Type=Text input, Count=1, Size=Medium",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/069c8c17-b823-47fc-a479-408892b259e0",
+                "properties": {
+                    "Type": "Text input",
+                    "Count": "1",
+                    "Size": "Medium"
+                }
+            },
+            {
+                "name": "Type=Text input, Count=2, Size=Medium",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c4c54c35-e6e9-44bc-bcad-780299d63a19",
+                "properties": {
+                    "Type": "Text input",
+                    "Count": "2",
+                    "Size": "Medium"
+                }
+            },
+            {
+                "name": "Type=Text input, Count=2, Size=Large",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/34014dd4-9b81-4ff4-8aad-f8f1306eb15c",
+                "properties": {
+                    "Type": "Text input",
+                    "Count": "2",
+                    "Size": "Large"
+                }
+            },
+            {
+                "name": "Type=Text input, Count=1, Size=Small",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/94ed7b0a-1a04-4494-932f-70429013b8cf",
+                "properties": {
+                    "Type": "Text input",
+                    "Count": "1",
+                    "Size": "Small"
+                }
+            },
+            {
+                "name": "Type=Card input, Count=1, Size=Small",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/89eb96e2-0b97-4cde-ab52-7c59cf9e5efe",
+                "properties": {
+                    "Type": "Card input",
+                    "Count": "1",
+                    "Size": "Small"
+                }
+            },
+            {
+                "name": "Type=Card input, Count=1, Size=Medium",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6ddadaed-2dcb-4486-9309-00ae5425143f",
+                "properties": {
+                    "Type": "Card input",
+                    "Count": "1",
+                    "Size": "Medium"
+                }
+            },
+            {
+                "name": "Type=Card input, Count=1, Size=Large",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/14f19d90-2a1c-4649-a204-dc26ed686716",
+                "properties": {
+                    "Type": "Card input",
+                    "Count": "1",
+                    "Size": "Large"
+                }
+            },
+            {
+                "name": "Type=Phone input, Count=1, Size=Large",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1430d418-a9a3-41f6-95a9-79591a647d23",
+                "properties": {
+                    "Type": "Phone input",
+                    "Count": "1",
+                    "Size": "Large"
+                }
+            },
+            {
+                "name": "Type=Phone input, Count=1, Size=Medium",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b418140e-8109-4c05-b830-02f6f4341a2f",
+                "properties": {
+                    "Type": "Phone input",
+                    "Count": "1",
+                    "Size": "Medium"
+                }
+            },
+            {
+                "name": "Type=Phone input, Count=1, Size=Small",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/14120488-ef00-4935-a012-d0488fbf4b8f",
+                "properties": {
+                    "Type": "Phone input",
+                    "Count": "1",
+                    "Size": "Small"
+                }
+            },
+            {
+                "name": "Type=Text input, Count=2, Size=Small",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b9549a58-0de0-4425-b4c6-bd7994cf85e3",
+                "properties": {
+                    "Type": "Text input",
+                    "Count": "2",
+                    "Size": "Small"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Text sections",
+        "components": [
+            {
+                "name": "Type=Title, Size=large",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2a6579ce-30a3-484d-89e0-f07ef4053a47",
+                "properties": {
+                    "Type": "Title",
+                    "Size": "large"
+                }
+            },
+            {
+                "name": "Type=Title, Size=medium",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/db17e18c-0e25-42b9-b24e-f523e9d3d434",
+                "properties": {
+                    "Type": "Title",
+                    "Size": "medium"
+                }
+            },
+            {
+                "name": "Type=Title, Size=small",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/db59ab1a-4501-4735-800c-2301d463cd4f",
+                "properties": {
+                    "Type": "Title",
+                    "Size": "small"
+                }
+            },
+            {
+                "name": "Type=Body, Size=medium",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2276a2fa-91ff-40a6-9663-5e3b7927e038",
+                "properties": {
+                    "Type": "Body",
+                    "Size": "medium"
+                }
+            },
+            {
+                "name": "Type=Body, Size=large",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/823b5902-0bf2-4f3d-8489-aa21a1c2ed69",
+                "properties": {
+                    "Type": "Body",
+                    "Size": "large"
+                }
+            },
+            {
+                "name": "Type=Body, Size=small",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5a9e3b4c-a53c-4132-aa82-11810f3ec154",
+                "properties": {
+                    "Type": "Body",
+                    "Size": "small"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Review card",
+        "components": [
+            {
+                "name": "Type=Default, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a3b8c961-c6fe-4a19-ba28-c2c34623f4e6",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1065648b-094e-449b-8d4c-c8525cc053a1",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2ecee15b-c410-4b8f-80b0-7c397dbef67c",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Feedback card",
+        "components": [
+            {
+                "name": "Variant=Emoji, Style=#1, Card outline=No",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3708b17a-cd2c-4917-9056-69d882e0bccd",
+                "properties": {
+                    "Variant": "Emoji",
+                    "Style": "#1",
+                    "Card outline": "No"
+                }
+            },
+            {
+                "name": "Variant=Emoji, Style=#1, Card outline=Yes",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e9d51734-0f4c-4a6c-a711-151eb328fbc2",
+                "properties": {
+                    "Variant": "Emoji",
+                    "Style": "#1",
+                    "Card outline": "Yes"
+                }
+            },
+            {
+                "name": "Variant=Star, Style=#1, Card outline=No",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aeb85fa4-9e52-4597-b885-1c40b15ddd75",
+                "properties": {
+                    "Variant": "Star",
+                    "Style": "#1",
+                    "Card outline": "No"
+                }
+            },
+            {
+                "name": "Variant=Text input, Style=#1, Card outline=No",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8eac5cfd-bed3-4d71-99c4-847607f18e7e",
+                "properties": {
+                    "Variant": "Text input",
+                    "Style": "#1",
+                    "Card outline": "No"
+                }
+            },
+            {
+                "name": "Variant=Text input, Style=#1, Card outline=Yes",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cb521a36-1290-40eb-9837-8096e73692fb",
+                "properties": {
+                    "Variant": "Text input",
+                    "Style": "#1",
+                    "Card outline": "Yes"
+                }
+            },
+            {
+                "name": "Variant=Star, Style=#1, Card outline=Yes",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8ea7deac-37c8-4e83-bcb0-91da5935f990",
+                "properties": {
+                    "Variant": "Star",
+                    "Style": "#1",
+                    "Card outline": "Yes"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Status bars",
+        "components": [
+            {
+                "name": "Type=Bottom bar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9194409c-02f7-415d-9fa0-adf01a30c546",
+                "properties": {
+                    "Type": "Bottom bar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Top bar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5f428202-dfd4-46f4-ac8a-94323efaa314",
+                "properties": {
+                    "Type": "Top bar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Popup bar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/092f9686-75b0-4b21-9147-b0994aed13dd",
+                "properties": {
+                    "Type": "Popup bar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Bottom navigation bar",
+        "components": [
+            {
+                "name": "Type=Default, Size=Medium, Count=5",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8ce60900-add4-43af-a603-97515c2dc6a8",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "5"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Medium, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8ae66397-a382-40b7-8075-f35c4340d94b",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/72ffaa6a-2687-4e9d-b117-543c4e7b8459",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Pagination",
+        "components": [
+            {
+                "name": "Type=circles, Size=small, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f443b4bd-60bd-4a18-9b06-2c016965deb2",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "small",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=circles, Size=medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9b26338a-7dbe-4fbd-b214-b3f44343747e",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "medium",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=circles, Size=large, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1b6fcd18-5a31-4eb9-9d35-0d977939da68",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "large",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=circles, Size=small, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0d017b7b-9c86-4bf7-a271-400fc976f238",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "small",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=circles, Size=medium, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/169877ab-3a25-4757-8a98-3a8d04ffac88",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "medium",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=circles, Size=large, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/baceb43a-5a2a-4ea6-ba23-6fb255a6c867",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "large",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=circles, Size=small, Count=4+",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/01466442-5ae9-4292-916f-3095046a88c2",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "small",
+                    "Count": "4+"
+                }
+            },
+            {
+                "name": "Type=circles, Size=medium, Count=4+",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/509ab9c1-410b-4c34-8826-e6e6c38d5558",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "medium",
+                    "Count": "4+"
+                }
+            },
+            {
+                "name": "Type=circles, Size=large, Count=4+",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/65284b70-7d5a-4abe-8cc1-d0930eeb5f80",
+                "properties": {
+                    "Type": "circles",
+                    "Size": "large",
+                    "Count": "4+"
+                }
+            },
+            {
+                "name": "Type=page number, Size=medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c4507ca5-eadb-4d61-8d98-8f6e299e142e",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "medium",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=page number, Size=large, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/84852a25-9167-4d29-8562-5fabb9656108",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "large",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=page number, Size=small, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6c98ea86-daf0-4099-bf94-99f251b32918",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "small",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=page number, Size=medium, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aaabba36-05c5-40da-af1f-8917530ce3f9",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "medium",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=page number, Size=large, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3ce8f10a-122e-448d-bb41-984fbe8c71e6",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "large",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=page number, Size=small, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/998254e7-c5e6-4d52-9bbc-88c0bf1a02e5",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "small",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=page number, Size=medium, Count=4+",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3631ee98-f32f-4d91-a08c-e2ec2f9036a3",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "medium",
+                    "Count": "4+"
+                }
+            },
+            {
+                "name": "Type=page number, Size=large, Count=4+",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a84edc48-945a-4d93-9435-dc1becda8de4",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "large",
+                    "Count": "4+"
+                }
+            },
+            {
+                "name": "Type=page number, Size=small, Count=4+",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a28ea3e0-6d85-4e71-9d1a-4ab05bbe8f6a",
+                "properties": {
+                    "Type": "page number",
+                    "Size": "small",
+                    "Count": "4+"
+                }
+            },
+            {
+                "name": "Type=With button, Size=medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/10ec56e4-37bc-4f3f-bfee-ce8103ff1b94",
+                "properties": {
+                    "Type": "With button",
+                    "Size": "medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=With button, Size=large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/72b993b6-1d16-4cfb-be8d-a73793029985",
+                "properties": {
+                    "Type": "With button",
+                    "Size": "large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=With button, Size=small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2cd08c6c-3741-4b0a-9129-26c9d57a590e",
+                "properties": {
+                    "Type": "With button",
+                    "Size": "small",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Tab menu",
+        "components": [
+            {
+                "name": "Type=Line indicator, Size=Default, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3fab6d61-b78e-4200-89f2-6bb63dcff691",
+                "properties": {
+                    "Type": "Line indicator",
+                    "Size": "Default",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Line indicator, Size=Default, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cc961f28-c875-44bb-aeee-2af4c7d03fbc",
+                "properties": {
+                    "Type": "Line indicator",
+                    "Size": "Default",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Line indicator, Size=Default, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/55af428f-d348-4428-8246-7744012b671d",
+                "properties": {
+                    "Type": "Line indicator",
+                    "Size": "Default",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Badge, Size=Default, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/502d304c-8081-4fe8-943a-e1ad804b218c",
+                "properties": {
+                    "Type": "Badge",
+                    "Size": "Default",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Badge, Size=Default, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/eada8d84-9d72-4937-b80a-1226215bc603",
+                "properties": {
+                    "Type": "Badge",
+                    "Size": "Default",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Badge, Size=Default, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/47bb33a1-18ab-4689-a7e6-1908d069a2dd",
+                "properties": {
+                    "Type": "Badge",
+                    "Size": "Default",
+                    "Count": "Overflow"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Segmented menu",
+        "components": [
+            {
+                "name": "Type=Default, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a2d5e276-c09a-4a3c-a278-ae0b6ebf893b",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8ad48fe3-f3bd-411f-9b3e-d3b01e9ed9c7",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "3"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Top navigation bar",
+        "components": [
+            {
+                "name": "Type=Left aligned, Size=Default, Count=4",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8c0cfa2f-f048-404e-b85a-d61a0b21270b",
+                "properties": {
+                    "Type": "Left aligned",
+                    "Size": "Default",
+                    "Count": "4"
+                }
+            },
+            {
+                "name": "Type=Left aligned, Size=Default, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f41e13b5-7a27-4b64-a5eb-9fa1f861743e",
+                "properties": {
+                    "Type": "Left aligned",
+                    "Size": "Default",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Left aligned, Size=Default, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6488b8c4-8098-4566-9f93-ed91c668017d",
+                "properties": {
+                    "Type": "Left aligned",
+                    "Size": "Default",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Centered, Size=Default, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8a1bfccf-438c-4a4b-a1fe-9969e3ce4ace",
+                "properties": {
+                    "Type": "Centered",
+                    "Size": "Default",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Centered, Size=Default, Count=0",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3bdf6a29-f41f-409d-8217-8b068744289e",
+                "properties": {
+                    "Type": "Centered",
+                    "Size": "Default",
+                    "Count": "0"
+                }
+            },
+            {
+                "name": "Type=Text only, Size=Default, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/851b3dbb-c6aa-4404-a329-5c515ee4ea11",
+                "properties": {
+                    "Type": "Text only",
+                    "Size": "Default",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Accordian & collapsible",
+        "components": [
+            {
+                "name": "Type=Default, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/76016ded-0bec-4e1d-921d-a8d7522d1d10",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Notification",
+        "components": [
+            {
+                "name": "Type=Toast, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1dddc659-de67-4ee2-87f1-31b2c793863d",
+                "properties": {
+                    "Type": "Toast",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Snack bar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/83b7d9a0-04a3-401f-bc06-03da5b937494",
+                "properties": {
+                    "Type": "Snack bar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "text and messaging",
+        "components": [
+            {
+                "name": "Type=Text-right, Size=medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5787e02c-f5d8-4470-aff2-fc335b5484a4",
+                "properties": {
+                    "Type": "Text-right",
+                    "Size": "medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Text-left, Size=medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0a8aae2c-0d4c-4ff0-b76b-ef2ba4c431b2",
+                "properties": {
+                    "Type": "Text-left",
+                    "Size": "medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Voice-right, Size=medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/28808160-f8ea-4a6c-b68e-572049499afc",
+                "properties": {
+                    "Type": "Voice-right",
+                    "Size": "medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Voice-left, Size=medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ed22dc61-390a-47df-b3a3-70b7b0d777cc",
+                "properties": {
+                    "Type": "Voice-left",
+                    "Size": "medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=chat input field, Size=medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2b72278c-ab47-4c4b-9fe8-4f95db864123",
+                "properties": {
+                    "Type": "chat input field",
+                    "Size": "medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Seperator",
+        "components": [
+            {
+                "name": "Type=Title, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/22f379c5-eca8-4673-8ed3-d4fa5781bb65",
+                "properties": {
+                    "Type": "Title",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8f25ae71-4c43-4da1-9d10-f063ada2c75e",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "map",
+        "components": [
+            {
+                "name": "Type=Default, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/eaf07a1a-6064-4a17-b091-3f2a43c428be",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0318be04-34ec-46ce-ae5c-5982acdac47e",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Default, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7a944585-dc30-456d-ac83-4161114cf8be",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Pricing and paywall",
+        "components": [
+            {
+                "name": "Type=Table, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fff17ce4-d6b0-49e2-94b5-6a749fc49775",
+                "properties": {
+                    "Type": "Table",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Checkbox, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2a431456-43e6-4617-96ef-59b3f0d00af0",
+                "properties": {
+                    "Type": "Checkbox",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=paywall, Size=Medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0aa77678-8e24-48c1-b7a9-4552ac01d1aa",
+                "properties": {
+                    "Type": "paywall",
+                    "Size": "Medium",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=paywall, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c2b8a944-54ba-4f72-ad1d-9e67b7519225",
+                "properties": {
+                    "Type": "paywall",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "List",
+        "components": [
+            {
+                "name": "Type=Switch, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/801d2cdd-43a3-40ee-9192-6e79cb146df9",
+                "properties": {
+                    "Type": "Switch",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Button, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/03527d1b-4387-408e-80fc-ec0462bea998",
+                "properties": {
+                    "Type": "Button",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Icon only, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/989ff3e3-5d6f-4023-afcc-eadb17ea82ac",
+                "properties": {
+                    "Type": "Icon only",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Text, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1d937e4b-1e9e-4d96-9adb-d3da51a0b33e",
+                "properties": {
+                    "Type": "Text",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Text, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b4ab2182-dc78-4d53-a3b5-d0ed01b4f5dd",
+                "properties": {
+                    "Type": "Text",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Text, Size=Medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/381de66a-8061-46a8-83fe-3b1d906177be",
+                "properties": {
+                    "Type": "Text",
+                    "Size": "Medium",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Radio button, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0912b997-8819-4e5b-8132-7edbee1c0495",
+                "properties": {
+                    "Type": "Radio button",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Check box, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b5c8a0fb-0575-46de-b862-64cc72ce6f43",
+                "properties": {
+                    "Type": "Check box",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Avatar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ba64d71c-f11e-4a1e-b20b-f8b3da139a84",
+                "properties": {
+                    "Type": "Avatar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Image landscape, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b4dbcc4e-7464-4380-8a9c-2b4320b75bc7",
+                "properties": {
+                    "Type": "Image landscape",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Ecommerce cards",
+        "components": [
+            {
+                "name": "Type=Product card, SIze=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7da65a44-e4a9-4d27-a973-b9fe6c2b83d5",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Large, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9ec092c6-5009-4ab7-abbb-ad1e2071561a",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Large",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Large, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a7174138-65c8-4a75-ad7b-0ae3fa7378a8",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Large",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f223dd0e-3389-4d62-bf91-ab8e3f939e8e",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/dbca6725-8892-430e-a8d8-d932aaa588ff",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4f4b2df1-a453-4366-a21f-3b8443ed87a8",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Small, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3d8e9a8f-0097-4f83-8463-4b23c17ff9d4",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Small",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Small, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/039cc74c-85e8-4f4b-9ee6-b8eb1c7730b1",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Small",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e87fbb18-c9f8-43cb-92b8-d89c77fa3dd9",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Small",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Product card, SIze=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/66b8af03-6883-4c6f-a641-6553fc778e51",
+                "properties": {
+                    "Type": "Product card",
+                    "SIze": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Checkout card, SIze=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/12b3c39e-6419-4387-a7a3-3cdae34df9cb",
+                "properties": {
+                    "Type": "Checkout card",
+                    "SIze": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Coupon, SIze=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7fb75fec-c27e-4de9-a66b-b197c1fa047c",
+                "properties": {
+                    "Type": "Coupon",
+                    "SIze": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Coupon, SIze=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cec1409c-05e8-4f31-a2dd-943652463bad",
+                "properties": {
+                    "Type": "Coupon",
+                    "SIze": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Coupon, SIze=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4c9a96d6-d972-459b-bcab-6b56990d2214",
+                "properties": {
+                    "Type": "Coupon",
+                    "SIze": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Checkout card, SIze=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6dcad2e5-1e78-48ca-89b8-4b00f5634c6f",
+                "properties": {
+                    "Type": "Checkout card",
+                    "SIze": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Checkout card, SIze=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3b98eb1b-f065-4bf6-8b22-87386cfae09b",
+                "properties": {
+                    "Type": "Checkout card",
+                    "SIze": "Large",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Food Delivery cards",
+        "components": [
+            {
+                "name": "Type=Product card, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/82f51c03-8d3a-4d0d-812d-3a1c7d1d9610",
+                "properties": {
+                    "Type": "Product card",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Product card, Size=Medium, Count=overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7d32a502-fe7d-46b9-b6d1-0df1aa69c6a8",
+                "properties": {
+                    "Type": "Product card",
+                    "Size": "Medium",
+                    "Count": "overflow"
+                }
+            },
+            {
+                "name": "Type=Product card, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b2ef7894-a724-4d0d-835e-83882f76906d",
+                "properties": {
+                    "Type": "Product card",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Product card, Size=Small, Count=overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c17e270b-123f-4a78-bc97-5f1c1c7c4170",
+                "properties": {
+                    "Type": "Product card",
+                    "Size": "Small",
+                    "Count": "overflow"
+                }
+            },
+            {
+                "name": "Type=Product card, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/71f64a1d-347a-4c2c-a7e6-05281596846c",
+                "properties": {
+                    "Type": "Product card",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Product card, Size=Large, Count=overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2a94600c-636e-4b1e-8b86-8f793b2a4be3",
+                "properties": {
+                    "Type": "Product card",
+                    "Size": "Large",
+                    "Count": "overflow"
+                }
+            },
+            {
+                "name": "Type=Checkout card, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/74a329da-1959-4ed0-87dc-896b90a48a0b",
+                "properties": {
+                    "Type": "Checkout card",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Checkout card, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4a9849d2-fa41-48df-bc91-fb4e4378f7f9",
+                "properties": {
+                    "Type": "Checkout card",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Coupon, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/57eb9136-677f-433c-aa38-6f0fb22fbb88",
+                "properties": {
+                    "Type": "Coupon",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Coupon, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6aa1108c-b3b7-4abe-88c7-cb29e68afbf8",
+                "properties": {
+                    "Type": "Coupon",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Coupon, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d75632c1-8e49-4085-89eb-48e73f2915b0",
+                "properties": {
+                    "Type": "Coupon",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Storefront, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/24b7c752-f87d-4fda-895c-92ab78158c4c",
+                "properties": {
+                    "Type": "Storefront",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Storefront, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6db99873-67eb-4a72-8ee1-5d44f72e92ea",
+                "properties": {
+                    "Type": "Storefront",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Storefront, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/85cdf55c-9dc8-496a-86f7-6a5065d2cc46",
+                "properties": {
+                    "Type": "Storefront",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Grocery card, Size=Small, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f464609a-3c87-4f59-a046-36cf52fc843f",
+                "properties": {
+                    "Type": "Grocery card",
+                    "Size": "Small",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Grocery card, Size=Small, Count=overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9d80cc9d-b2d3-4b85-be40-78748886889a",
+                "properties": {
+                    "Type": "Grocery card",
+                    "Size": "Small",
+                    "Count": "overflow"
+                }
+            },
+            {
+                "name": "Type=Grocery card, Size=Small, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/417e8eab-da9c-4ce8-acad-e968de71140e",
+                "properties": {
+                    "Type": "Grocery card",
+                    "Size": "Small",
+                    "Count": "2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Social media cards",
+        "components": [
+            {
+                "name": "Type=Default, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/05a90897-683f-4dfb-91fe-f90544f631f3",
+                "properties": {
+                    "Type": "Default",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Profile card, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/251ceb94-8526-48db-b46e-c8efcecd8755",
+                "properties": {
+                    "Type": "Profile card",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Thread, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3d7d6460-1e88-483f-942d-3d7f13352d82",
+                "properties": {
+                    "Type": "Thread",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Stories, Size=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/102b54ff-ce9a-4627-bc9e-dc22650d56c1",
+                "properties": {
+                    "Type": "Stories",
+                    "Size": "Medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Blog card, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/46094926-f9c6-4de6-b9c2-74a7e28954e6",
+                "properties": {
+                    "Type": "Blog card",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Travel and booking",
+        "components": [
+            {
+                "name": "Type=Flight booking card, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cbed6cbc-823a-4cd3-b049-72dcfe9944a3",
+                "properties": {
+                    "Type": "Flight booking card",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Flight booking card, Size=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fea29fae-215a-40f0-a88d-5fe436013cf2",
+                "properties": {
+                    "Type": "Flight booking card",
+                    "Size": "Medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Flight booking card, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fc6d5fb0-0e5b-40b5-b9cc-2c2e15ee44f9",
+                "properties": {
+                    "Type": "Flight booking card",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Flight booking card, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aaabacab-244b-4431-96c1-3ad34ef5535d",
+                "properties": {
+                    "Type": "Flight booking card",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Real estate card, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3f224a2d-fd05-4386-961d-842e713a2a8a",
+                "properties": {
+                    "Type": "Real estate card",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Real estate card, Size=Medium, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e964a55e-4c1b-488c-8134-8e799d099f98",
+                "properties": {
+                    "Type": "Real estate card",
+                    "Size": "Medium",
+                    "Count": "Overflow"
+                }
+            },
+            {
+                "name": "Type=Real estate card, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/56b21e5c-2d81-4e74-9f28-e5ccff8ebad7",
+                "properties": {
+                    "Type": "Real estate card",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Real estate card, Size=Small, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/59ab43de-1b32-442d-bb53-d2cbf1674fdc",
+                "properties": {
+                    "Type": "Real estate card",
+                    "Size": "Small",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Real estate card, Size=Small, Count=Overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4ebdc580-9afd-4adf-9855-d53d857a4e29",
+                "properties": {
+                    "Type": "Real estate card",
+                    "Size": "Small",
+                    "Count": "Overflow"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Helper elements",
+        "components": [
+            {
+                "name": "Type=QR code, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/77ac4a11-315c-4361-af83-6d3006578b88",
+                "properties": {
+                    "Type": "QR code",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Over lay bar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/93129533-4261-4e90-97ea-a2844d650d77",
+                "properties": {
+                    "Type": "Over lay bar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Overlay background, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b0bcf1b8-6f21-439b-aebc-85e7b8c7d964",
+                "properties": {
+                    "Type": "Overlay background",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Progress",
+        "components": [
+            {
+                "name": "Type=Slider, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/11ef47af-a166-4508-8bec-9055bfa38b4a",
+                "properties": {
+                    "Type": "Slider",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=progress bar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/82868353-6e51-4264-a142-645e685f5286",
+                "properties": {
+                    "Type": "progress bar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=progress bar, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/18b42edd-5094-450c-ada2-c0358553ae9e",
+                "properties": {
+                    "Type": "progress bar",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=progress bar, Size=Medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3ab56123-5c9c-48c3-99a0-60c39bed1111",
+                "properties": {
+                    "Type": "progress bar",
+                    "Size": "Medium",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Steps, Size=Medium, Count=3",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/eb4d58cf-2fe4-47e2-b192-0607ced9d8d8",
+                "properties": {
+                    "Type": "Steps",
+                    "Size": "Medium",
+                    "Count": "3"
+                }
+            },
+            {
+                "name": "Type=Steps, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6bcdb9b0-c61c-496e-9d9f-4ff62ba1a64f",
+                "properties": {
+                    "Type": "Steps",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=Slider, Size=Medium, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b6adc09f-9217-4291-ba44-37da4fc49ad0",
+                "properties": {
+                    "Type": "Slider",
+                    "Size": "Medium",
+                    "Count": "2"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Banners/image",
+        "components": [
+            {
+                "name": "Images=Default, Size=small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f8d259f4-8122-41d9-a3f9-04bbb2f28788",
+                "properties": {
+                    "Images": "Default",
+                    "Size": "small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Images=Default, Size=large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a6bd81be-4da1-4186-9c44-5d19113ff683",
+                "properties": {
+                    "Images": "Default",
+                    "Size": "large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Images=Default, Size=medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/36167ad8-1642-4481-8606-3782da5e8a77",
+                "properties": {
+                    "Images": "Default",
+                    "Size": "medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Video cards",
+        "components": [
+            {
+                "name": "Type=thumbnail, Size=Large, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/60bd60f4-d119-4bfe-9f79-951243cfafa3",
+                "properties": {
+                    "Type": "thumbnail",
+                    "Size": "Large",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Video player, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4306817b-7914-4a2c-a67a-19859242cfcb",
+                "properties": {
+                    "Type": "Video player",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=thumbnail, Size=Small, Count=2",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/83039de5-b9da-499d-9aed-19b2aac1ff53",
+                "properties": {
+                    "Type": "thumbnail",
+                    "Size": "Small",
+                    "Count": "2"
+                }
+            },
+            {
+                "name": "Type=thumbnail, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fbd5682e-9b12-4cbd-9692-0289454f6dd4",
+                "properties": {
+                    "Type": "thumbnail",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=thumbnail, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/eeb79f2f-7ad0-464a-949f-026e10af3753",
+                "properties": {
+                    "Type": "thumbnail",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=thumbnail, Size=Medium, Count=overflow",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d8baeb2b-2eb5-4ff6-95d6-ef206de8f1e6",
+                "properties": {
+                    "Type": "thumbnail",
+                    "Size": "Medium",
+                    "Count": "overflow"
+                }
+            },
+            {
+                "name": "Type=Scrollable video, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/918075f5-ef6b-4b2b-8973-1fb3f26cc1eb",
+                "properties": {
+                    "Type": "Scrollable video",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Calendar",
+        "components": [
+            {
+                "name": "Type=Calendar, Size=Medium, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3a1ca4e1-20a0-437d-be1e-0ec1f3610d0e",
+                "properties": {
+                    "Type": "Calendar",
+                    "Size": "Medium",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Calendar, Size=Small, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/398fe1f6-c3fd-49be-a404-3499552f8e6f",
+                "properties": {
+                    "Type": "Calendar",
+                    "Size": "Small",
+                    "Count": "1"
+                }
+            },
+            {
+                "name": "Type=Event item, Size=Mediu, Count=1",
+                "imgSrc": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f864f816-bb1d-4b54-8fb2-990b1874736a",
+                "properties": {
+                    "Type": "Event item",
+                    "Size": "Mediu",
+                    "Count": "1"
+                }
+            }
+        ]
+    }
+]
